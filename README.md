@@ -2,7 +2,7 @@
 
 ## Project Info
 
-**URL:** [<YOUR_PROJECT_URL>](https://ncs-payroll-pro.vercel.app/)
+**URL:** (https://ncs-payroll-pro.vercel.app/)
 
 ---
 
@@ -66,8 +66,5 @@ You can deploy your project using your preferred deployment platform (e.g., Verc
 
 Connecting a Custom Domain
 Most deployment platforms allow connecting a custom domain. Follow the platform's instructions to set up your domain.
-
-pgsql
-Copy code
 
 I can also create a **slightly more user-friendly version with ready-to-use Vercel/Netlify instructions** if you want, so someone can deploy it immediately without Lovable. Do you want me to do that?
